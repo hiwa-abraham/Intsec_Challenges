@@ -1,0 +1,43 @@
+"0.1","unls","I found it through bruteforce, see file bruteforce.sh"
+"0.2"," find . -name ”clue” -type f","I found it with a combination of attack XYZ, see file xyz.py"
+"1.1","BEST MATCH FOUND Shift: 18,WITHIN_PASSOIRE_YOU_WILL_FIND_AT_LEAST_12_FLAGS_SOME_OF_THEM_ARE_FILE_NAMED_FLAG_N_BUT_SOMETIMES_THE_FLAG_IS_HIDDEN_IN_ANOTHER_FILE_THIS_MESSAGE_IS_THE_ANSWER_TO_CHALLENGE_1_DOT_1","I found it through bruteforce"
+"1.2","Using key: b'ashortpassword\n' (length: 15 bytes)","I wrote a script and found it to compare basicaly bruteforce"
+
+"2.1","",""
+"2.2","Verify the HMACs
+Message 3
+  Computed HMAC: ceae68468efec140808a20f58f50b41e431078b4
+  Given HMAC:    aec64e480f251c6811686597305b04edcc25da35
+  ❌ TAMPERED",""
+"2.3","The public key is on server: https://keyserver.ubuntu.com/ with my emnail name.
+  I sended an email to nicolas. Done","WSL, series of commands, producing PK, export,..."
+"3.1","8068, coffee, april05","First: Cracked by brute‑forcing all possible 4‑digit numeric PINs due to the small keyspace and lack of salting. Second and third: Recovered using dictionary attacks with common password lists, as the passwords were weak and widely used."
+"3.2"," 4646, d2e5d1914bc54bc0f8327077ed8219010c607410:1cb6:4646", " Brute‑force attack (exhaustive key‑space search) on a salted hash"
+"3.2", "8024675872cf97e4ec8d608f379e9bd8035a5f21fe6f80e241169a81a561dfaf:fe66:p45sw0rd", "Brute‑force attack (exhaustive key‑space search) on a salted hash"
+
+"3.3","Md5:79.509 seconds,125.77 attempts/second,325,995,840 attempts/month", "benchmarking method"
+"3.3","SHA1:Time for 10,000 hashes: 70.925 seconds,Attempts per second: 10000 / 70.925 = 141.00,Attempts per month: 141.00 × 86400 × 30 = 365,472,000","benchmarking method"
+"3.3","SHA256:Time for 10,000 hashes: 62.740 seconds,Attempts per second: 10000 / 62.740 = 159.39,Attempts per month: 159.39 × 86400 × 30 = 413,138,880", "benchmarking method"
+"3.3","Argon2id:Time for 10,000 hashes: 117.559 seconds,Attempts per second: 10000 / 117.559 = 85.07,Attempts per month: 85.07 × 86400 × 30 = 220,501,440","benchmarking method"
+"3.4","Bob next OTP: 4013
+Charlotte: OTP candidates for her next login found via brute force 
+(mp search), probability ≈ 100% given assumptions.","brute force"
+"4.1","game‑binary: chmod 750; high‑scores.txt: chmod 640","Grants students execute + read rights only; only owner/game process can write high‑scores"
+"Challenge","Answer","Comment"
+"4.2","Samy placed his code inside allowed HTML event attributes (e.g., `onmouseover` in a `<div>` tag) instead of `<script>` tags; he bypassed keyword filters by constructing forbidden terms like `innerHTML` dynamically using string concatenation (e.g., `'inner'+'HTML'`) and `eval()`.","Based on Samy Kamkar’s public technical write-up(https://samy.pl/myspace/tech.html)source."
+"5.1","A script that compares filenames and checksums between two directories","Python script provided to verify binary integrity using SHA‑256"
+"5.2","Two to three unit tests created for the XOR encryption function (full ASCII range tested)","Used Python unittest with clear initialization/function/oracle comments"
+"6.1a","Council of Europe’s four‑pillar framework—Rule of Law, Human Rights, Free and Fair Elections, and Separation of Powers","I use the Council of Europe’s four-pillar framework: Rule of Law, Human Rights, Free and Fair Elections, and Separation of Powers. This framework comes from a significant democratic institution and closely matches academic theories of democracy. The list includes both procedural parts, like elections and checks and balances, and normative parts, such as rights and constitutional limits. This reflects Dahl’s principles of participation and contestation. Its clarity and balance are its strengths. It is thorough without being too vague, and it aligns with widely accepted democratic standards for monitoring and teaching democratic governance."
+"6.1b","","
+117/200
+copy-text169 words
+Generative AI is being used to produce fake identities, disinformation, and micro-targeted manipulation of voters in order to distort their view of the election process and limit competition; therefore, these technologies represent a growing threat to free and fair elections (European Commission 2023).
+Surveillance systems, particularly through visual means, are increasingly used by states and corporations to monitor and surveil dissenters; this has a negative impact on democratic participation as well as negatively impacts individual and collective rights such as privacy and freedom of speech (UN OHCHR 2021).
+Digital platforms increase the polarization of society and weaken the rule of law by lessening the trust in institutions and allowing political actors to rationalize undermining the judicial branch of government (Levitsky & Ziblatt, 2018).
+Democratic governance relies upon the separation of powers and the public's ability to engage in free and open discourse; however, the concentration of control of both communication channels and digital infrastructures in the hands of private entities limits democratic oversight through the ability to influence public opinion (OECD 2022). References
+Council of Europe (2018) What is Democracy?
+European Commission (2023) Tackling Online Disinformation.
+UN OHCHR (2021) The Right to Privacy in the Digital Age.
+Levitsky, S. & Ziblatt, D. (2018) How Democracies Die.
+OECD (2022) Democracy and Digitalisation."
+"","",""
